@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nawel-Bellil
 - 👀 I’m interested in AI...
-- 🌱 I’m currently learning Python/java
+- 🌱 I’m currently learning Python/Js
 - 📫 How to reach me: nawelxbellil@gmail.com
 
 <!---
