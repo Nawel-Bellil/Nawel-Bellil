@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nawel-Bellil
 - 2nd year Cs Engineering student at USTHB 👩‍💻
 - 👀 I’m interested in AI...
-- 🌱 I’m currently learning Python/Js
+- 🌱 I’m currently learning Python/Js (Backend)
 - 📫 How to reach me: nawelxbellil@gmail.com
 
 <!---
