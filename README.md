@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nawel BELLIL</h1>
+<h1 align="center">Hi 😼, I'm Nawel BELLIL</h1>
 <h3 align="center">A passionate Backend, AI and Security developer from Algeria</h3>
 
 - 🌱 I’m currently learning **AI/ML and Backend with new technologies**
