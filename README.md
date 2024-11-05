@@ -2,11 +2,8 @@
 <h3 align="center">A passionate Backend, AI and Security developer from Algeria</h3>
 
 - 🌱 I’m currently learning **AI/ML and Backend with new technologies**
-- 🛡️ 3rd year **Cyber Security Engineering** student at **USTHB**
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1280/1*NjTOZloZTcd4NUPIevicNQ.gif" alt="Developer GIF" style="width:100%; max-width:600px; height:auto;" />
-</p>
 
+- 🛡️ 3rd year **Cyber Security Engineering** student at **USTHB**
 
 - 📫 How to reach me **nawelxbellil@gmail.com**
 
