@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawel-bellil&label=Profile%20views&color=0e75b6&style=flat" alt="nawel-bellil" /> </p>
 
-- 🌱 I’m currently learning **AI: NLP, LLMs.. and Backend with new technologies**
+- 🌱 I’m currently learning **AI focusing on NLP, LLMs.. and Backend with new technologies**
 
 - 📫 How to reach me **nawelxbellil@gmail.com**
 
