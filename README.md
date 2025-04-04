@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nawel BELLIL</h1>
-<h3 align="center">A passionate Backend, and AI developer from Algeria</h3>
+<h3 align="center">I'm a 3rd-year engineering student from Algeria, currently navigating my way through the world of "AI, backend development, and cybersecurity".  
+Not in a rush to specialize—I'm exploring, observing, and learning what truly resonates.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawel-bellil&label=Profile%20views&color=0e75b6&style=flat" alt="nawel-bellil" /> </p>
 
-- 🌱 I’m currently learning **AI focusing on NLP, LLMs.. and Backend with new technologies**
+- **AI & NLP:** Especially how large language models work, and how to build with them meaningfully  
+- **Backend Development:** APIs, databases, clean architecture — understanding what happens behind the scenes  
+- **Cybersecurity:** Curious about vulnerabilities and how to secure systems 
 
 - 📫 How to reach me **nawelxbellil@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nawel-bellil-5728902a0/](https://www.linkedin.com/in/nawel-bellil-5728902a0/)
 
-- ⚡ Fun fact **NASA's Computers in the 1960s "The computers used for the Apollo 11 moon landing had about 64KB of memory — far less than even a modern digital watch."**
+## ⚡ Random thought I like:
+> “NASA’s Apollo 11 computer had less memory than a digital watch today. Proof that focused minds > powerful machines.”
+
+🌱 Still growing, still figuring it out — but building something real along the way.
 
 
 <!-- BLOG-POST-LIST:START -->
