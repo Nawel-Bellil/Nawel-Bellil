@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nawel Bellil  
-### *Junior ML Engineer × Product Owner × AI Automator*
+### *Junior ML Engineer*
 
 > **"Apollo 11 ran on less than a watch. Focus > power."**
 
