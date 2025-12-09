@@ -15,14 +15,11 @@
 4th-year **Computer Security Engineering** student at **USTHB**, Algeria  
 **R&D Intern @ SATIM** 
 
-## Let's Connect
+## Contact :
 
 <p align="center">
   <a href="mailto:nawelxbellil@gmail.com">
     <img src="https://img.shields.io/badge/Email-nawelxbellil@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/nawel-bellil-5728902a0">
-    <img src="https://img.shields.io/badge/LinkedIn-Nawel_Bellil-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
