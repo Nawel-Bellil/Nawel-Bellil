@@ -1,9 +1,8 @@
 <div align="center">
 
-# Nawel Bellil  
+# Nawel BELLIL  
 
 
-> **"Apollo 11 ran on less than a watch."**
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nawel-bellil&theme=vue-dark&hide_border=true&border_radius=8)
 
