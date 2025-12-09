@@ -3,7 +3,7 @@
 # Nawel Bellil  
 ### *Junior ML Engineer*
 
-> **"Apollo 11 ran on less than a watch. Focus > power."**
+> **"Apollo 11 ran on less than a watch."**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nawel-bellil&label=Views&color=0e75b6&style=flat)](https://github.com/nawel-bellil)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nawel-bellil&theme=vue-dark&hide_border=true&border_radius=8)
@@ -14,9 +14,8 @@
 
 ## Who I Am
 4th-year **Computer Security Engineering** student at **USTHB**, Algeria  
-**R&D Intern @ SATIM** — automating 80% of routines with AI
+**R&D Intern @ SATIM** 
 
-> Exploring **AI, backend, cybersecurity, product**  
 > **Building. Observing. Growing.**
 
 ---
