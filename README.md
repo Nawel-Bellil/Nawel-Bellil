@@ -11,7 +11,7 @@
 ---
 
 
-4th-year **Computer Security Engineering** student at **USTHB**, Algeria  
+final year **Computer Security Engineering** student at **USTHB**, Algeria  
 **R&D Intern @ SATIM** 
 
 ## Contact :
