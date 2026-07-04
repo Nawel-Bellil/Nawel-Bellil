@@ -13,6 +13,7 @@
 
 final year **Computer Security Engineering** student at **USTHB**, Algeria  
 **R&D Intern @ SATIM** 
+**Product Owner** @ ** Mizaniya Pay**
 
 ## Contact :
 
